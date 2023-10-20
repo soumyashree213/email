@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 24px;
+            color: #333;
+        }
+
+        p {
+            font-size: 16px;
+            color: #555;
+            line-height: 1.6;
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Your Subject Line</h1>
+        <p>
+            Hello [Recipient's Name],
+            <br><br>
+            [Your Email Content Here]
+            <br><br>
+            If you're interested in learning more, please feel free to reply to this email or contact me at [Your Email Address].
+            <br><br>
+            Thank you for considering our services, and I look forward to the opportunity to assist you.
+            <br><br>
+            Best regards,
+            <br>
+            [Your Name]
+        </p>
+    </div>
+</body>
+</html>
